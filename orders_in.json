@@ -1,0 +1,18 @@
+[
+  {
+    "order_id": "1011",
+    "order_date": "2024-02-11",
+    "total_amount": 175.45,
+    "customer_id": "C011",
+    "customer_name": "Liam Parker",
+    "email": "liam.parker@example.com"
+  },
+  {
+    "order_id": "1012",
+    "order_date": "2024-02-12",
+    "total_amount": 264.30,
+    "customer_id": "C012",
+    "customer_name": "Mia Johnson",
+    "email": "mia.johnson@example.com"
+  }
+]
